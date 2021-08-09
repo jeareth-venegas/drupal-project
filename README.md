@@ -1,2 +1,4 @@
-# cetav_proyecto
-Proyecto CETAV 2021
+# Proyecto de Drupal
+* James Solís
+* Fabián Barquero
+* Jeareth Venegas
